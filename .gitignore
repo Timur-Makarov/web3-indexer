@@ -1,0 +1,5 @@
+.idea
+.env
+bin
+*.exe
+go.sum
